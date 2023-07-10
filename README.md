@@ -4,13 +4,13 @@ This GitHub repository hosts a neural network model designed for predicting rati
 # Usage
 To use the neural network model, follow these steps:
 
-# Navigate to the desired language version directory within the repository.
-Run the main.py file.
-Upon running the main.py file, you will be presented with a menu that provides the following options:
+Navigate to the desired language version directory within the repository.
+- Run the main.py file.
+  Upon running the main.py file, you will be presented with a menu that provides the following options:
 
-0 - Run the pre-trained neural network.
-1 - Generate and save a new neural network.
-It is recommended to use the pre-trained neural network for efficient rating prediction. However, if you wish to generate and save a new neural network, you can choose the second option.
+  0 - Run the pre-trained neural network.
+  1 - Generate and save a new neural network.
+  It is recommended to use the pre-trained neural network for efficient rating prediction. However, if you wish to generate and save a new neural network, you can choose   the second option.
 
 Please note that this repository does not incorporate any advanced techniques or make use of other neural network models. It focuses on the implementation of a basic TensorFlow-based neural network for rating prediction.
 
