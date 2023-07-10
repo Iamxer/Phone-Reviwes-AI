@@ -28,7 +28,7 @@ Make sure to meet these requirements to avoid any compatibility issues.
 
 # Versions
 
-    ### v0.1
+  ## v0.1
 
   This is the first and earliest version of the neural network, it is very simple and works best on very short reviews consisting of a few words, more than 5 words iis unpredictable. Only available in Russian language
 
