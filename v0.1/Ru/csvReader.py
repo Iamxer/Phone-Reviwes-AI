@@ -1,4 +1,4 @@
- import pandas as pd
+import pandas as pd
 
 def readColumn(file, column, clean):
     data = pd.read_csv(file)
