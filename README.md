@@ -26,5 +26,8 @@ Python(3.xx) with:
 - Numpy
 Make sure to meet these requirements to avoid any compatibility issues.
 
+#Versions
+$v0.1
+
 # Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
