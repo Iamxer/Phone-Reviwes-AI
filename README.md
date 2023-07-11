@@ -12,7 +12,7 @@ Navigate to the desired language version directory within the repository.
   
   1 - Generate and save a new neural network.
   
-  It is recommended to use the pre-trained neural network for efficient rating prediction. However, if you wish to generate and save a new neural network, you can choose   the second option.
+  It is recommended to use the pre-trained neural network for efficient rating prediction. However, if you wish to generate and save a new neural network, you can choose the second option.
 
 Please note that this repository does not incorporate any advanced techniques or make use of other neural network models. It focuses on the implementation of a basic TensorFlow-based neural network for rating prediction.
 
@@ -30,7 +30,8 @@ Make sure to meet these requirements to avoid any compatibility issues.
 
   - ## v0.1
 
-  This is the first and earliest version of the neural network, it is very simple and works best on very short reviews consisting of a few words, more than 5 words it is   unpredictable. Only available in Russian language
+  - This is the first and earliest version of the neural network, it is very simple and works best on very short reviews consisting of a ~100 symbols, more or less than make it is unpredictable. 
+  - Only available in Russian language
 
 # Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
