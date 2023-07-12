@@ -27,8 +27,14 @@ Python(3.xx) with:
 Make sure to meet these requirements to avoid any compatibility issues.
 
 # Versions
+  
+### _Types:_
+ - ### a
+      A standard model that achieves an optimal ratio of time to accuracy.
+ - ### b
+      This model has greater accuracy due to longer training time and lower learning speed.
 
-  - ## v0.1a
+## v0.1
 
   - This is the first and earliest version of the neural network, it is very simple and works best on very short reviews consisting of a ~100 symbols, more or less than make it is unpredictable. 
   - Only available in Russian language
