@@ -27,16 +27,20 @@ Python(3.xx) with:
 Make sure to meet these requirements to avoid any compatibility issues.
 
 # Versions
-  
-### _Types:_
- - ### a
-      A standard model that achieves an optimal ratio of time to accuracy.
- - ### b
-      This model has greater accuracy due to longer training time and lower learning speed.
 
 ## v0.1
 
   - This is the first and earliest version of the neural network, it is very simple and works best on very short reviews consisting of a ~100 symbols, more or less than make it is unpredictable. 
+  - Only available in Russian language
+
+## v0.2
+
+  - Unlike the previous version, it has longer training time and slower learning speed, which gives more accurate prediction results for the neural network.
+  - Only available in Russian language
+
+## v0.3
+
+  - This version consists of three different models: for short texts (0 - 150 characters), for medium (150 - 350 characters) and for large (350 - 600 characters), which are able to switch automatically when the neural network works, despite expectations the model was a complete failure and is almost unable to work, presumably because of the large variation in text size and a small database for each model (only 10,000 examples per model as opposed to 15,000 in previous versions).
   - Only available in Russian language
 
 # Contributing
