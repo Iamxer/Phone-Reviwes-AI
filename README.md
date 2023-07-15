@@ -36,7 +36,7 @@ Make sure to meet these requirements to avoid any compatibility issues.
 ## v0.2
 
   - Unlike the previous version, it has longer training time and slower learning speed, which gives more accurate prediction results for the neural network.
-  - Only available in Russian language
+  - Available in English and Russian language
 
 ## v0.3
 
