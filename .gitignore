@@ -1,5 +1,7 @@
 .idea/
 __pycache__/
 venv/
-123.py
+Eng.py
+Ru.py
 EngData.csv
+RuData.csv

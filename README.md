@@ -40,7 +40,7 @@ Make sure to meet these requirements to avoid any compatibility issues.
 
 ## v0.3
 
-  - This version consists of three different models: for short texts (0 - 150 characters), for medium (150 - 350 characters) and for large (350 - 600 characters), which are able to switch automatically when the neural network works, despite expectations the model was a complete failure and is almost unable to work, presumably because of the large variation in text size and a small database for each model (only 10,000 examples per model as opposed to 15,000 in previous versions).
+  - This version consists of three different models: for short texts (0 - 150 characters), for medium (150 - 350 characters) and for large (350 - 600 characters), which are able to switch automatically when the neural network works, despite expectations the model was a complete failure and is almost unable to work, presumably because of the large variation in text size and a small database for each model (only 10,000 examples per model as opposed to 13,000 in previous versions).
   - Only available in Russian language
 
 # Contributing
