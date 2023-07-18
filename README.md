@@ -28,17 +28,17 @@ Make sure to meet these requirements to avoid any compatibility issues.
 
 # Versions
 
-## v0.1
+## v0.1p
 
   - This is the first and earliest version of the neural network, it is very simple and works best on very short reviews consisting of a ~100 symbols, more or less than make it is unpredictable. 
   - Available in English and Russian language
 
-## v0.2
+## v0.2p
 
   - Unlike the previous version, it has longer training time and slower learning speed, which gives more accurate prediction results for the neural network.
   - Available in English and Russian language
 
-## v0.3
+## v0.3p
 
   - This version consists of three different models: for short texts (0 - 150 characters), for medium (150 - 350 characters) and for large (350 - 600 characters), which are able to switch automatically when the neural network works, despite expectations the model was a complete failure and is almost unable to work, presumably because of the large variation in text size and a small database for each model (only 10,000 examples per model as opposed to 13,000 in previous versions).
   - Only available in Russian language
