@@ -22,7 +22,7 @@ for review in reviews:
     wordIndexInSentence = 3
     for j in range(len(review) - 3):
         wordIndex = review[wordIndexInSentence]
- V        xTrain.append([])
+        xTrain.append([])
         xTrain[gi] = [review[wordIndexInSentence - 3], review[wordIndexInSentence - 2], review[wordIndexInSentence - 1]]
 
         yTrain.append(np.zeros(len(token.word_index)))
