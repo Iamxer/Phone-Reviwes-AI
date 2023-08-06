@@ -41,7 +41,11 @@ Make sure to meet these requirements to avoid any compatibility issues.
 ## v0.3p
 
   - This version consists of three different models: for short texts (0 - 150 characters), for medium (150 - 350 characters) and for large (350 - 600 characters), which are able to switch automatically when the neural network works, despite expectations the model was a complete failure and is almost unable to work, presumably because of the large variation in text size and a small database for each model (only 10,000 examples per model as opposed to 13,000 in previous versions).
-  - Only available in Russian language
+  - Available in English and Russian language
+
+## v0.01l
+  - The first and earliest version of the language model is a testimonial generating, which in this version requires a few words and those that it has seen in training
+  - Available in English and Russian language
 
 # Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
