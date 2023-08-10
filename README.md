@@ -44,8 +44,12 @@ Make sure to meet these requirements to avoid any compatibility issues.
   - Available in English and Russian language
 
 ## v0.01l
-  - The first and earliest version of the language model is a testimonial generating, which in this version requires a few words and those that it has seen in training
+  - The first and earliest version of the language model is a testimonial generating, which in this version requires a few words and those that it has seen in training.
   - Available in English and Russian language
+
+## v0.02l
+  - It may have poorer generation results due to the fact that the neural network window is expanded from 3 words to 5, which gives the neural network more context, but also makes its answers more dependent on it, which in turn requires more training data, which it did not receive.
+  - Available only in English language
 
 # Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
